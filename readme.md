@@ -60,7 +60,7 @@ If you have found some new and interesting papers, I would appreciate it if you 
 
 ### Mitigating（LVLM）
 
-1. **SENTINEL**: Mitigating Object Hallucinations via Sentence-Level Early Intervention(https://arxiv.org/pdf/2507.12455) (Peng et al. ICCV2025)
+1. **SENTINEL**: Mitigating Object Hallucinations via Sentence-Level Early Intervention, (Peng et al. ICCV2025)
    - [![Static Badge](https://img.shields.io/badge/2507.12455-red?logo=arxiv)](http://arxiv.org/abs/2507.12455)  [![](https://img.shields.io/badge/SENTINEL-black?logo=github)](https://github.com/pspdada/SENTINEL)
    - Introduces an automatic, sentence‑level early intervention strategy to prevent and mitigate object hallucinations in LVLM
    - Effectively reduce hallucinations while improving general task performance
